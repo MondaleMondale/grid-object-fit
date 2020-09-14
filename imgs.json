@@ -1,11 +1,16 @@
 [
-    {"pic":"IMG_0124"},
+    {"pic":"IMG_0124", "txt":"Et billede"},
 
-    {"pic":"IMG_0904"},
-    {"pic":"IMG_0916"},
-    {"pic":"IMG_5774"},
-    {"pic":"IMG_5979"},
-    {"pic":"IMG_6204"}
+    {"pic":"IMG_0904", "txt":"Et billedekjsdhf"},
+    {"pic":"IMG_0916", "txt":"Endnu et billede"},
+    {"pic":"IMG_5774",  "txt":"Sikken et smukt billede"},
+    {"pic":"IMG_5979","txt":"Sikken et smukt billede"},
+    {"pic":"IMG_6204","txt":"Sikken et lækkert billede"},
+    {"pic":"IMG_1624","txt":"Sikken et smukt billede"},
+    {"pic":"IMG_1644","txt":"Sikken da for helvede et smukt billede"},
+    {"pic":"IMG_1686","txt":"Hallo"},
+    {"pic":"IMG_1687","txt":"Mammme lejse"},
+    {"pic":"IMG_1695","txt":"Alan er tyk"}
 
 
 
