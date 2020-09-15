@@ -19,7 +19,7 @@
             grid-gap: 10px;
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            grid-auto-rows: 240px;
+/*            grid-auto-rows: 240px;*/
 
         }
 
@@ -28,7 +28,7 @@
         img {
             object-fit: cover;
             width: 100%;
-            height: 100%;
+            height: 240px;
 
 
 
@@ -75,7 +75,7 @@
                 const minKlon = templatePointer.cloneNode(true).content;
 
                 minKlon.querySelector("img").src = "images/" + eachImg.pic + ".jpeg";
-//                minKlon.querySelector("h2").textContent = eachImg.txt;
+                minKlon.querySelector("h2").textContent = eachImg.txt;
                 console.log(minKlon.querySelector("div"));
                 slidesPointer.appendChild(minKlon);
 
